@@ -1,0 +1,11 @@
+.wholyshit {
+    page-break-inside: avoid !important;
+}
+.whonypage {
+    page-break-after: always !important;
+}
+.whorybreaker {
+    border-bottom: solid;
+    height: 4px;
+    color: #DDDDDD;
+}
